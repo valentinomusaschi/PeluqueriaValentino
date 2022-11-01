@@ -1,0 +1,18 @@
+C:\Users\guill\source\repos\Peluqueria 2\Logica Peluqueria 2\bin\Debug\Logica Peluqueria 2.dll
+C:\Users\guill\source\repos\Peluqueria 2\Logica Peluqueria 2\bin\Debug\Logica Peluqueria 2.pdb
+C:\Users\guill\source\repos\Peluqueria 2\Logica Peluqueria 2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\guill\source\repos\Peluqueria 2\Logica Peluqueria 2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guill\source\repos\Peluqueria 2\Logica Peluqueria 2\obj\Debug\Logica Peluqueria 2.csproj.AssemblyReference.cache
+C:\Users\guill\source\repos\Peluqueria 2\Logica Peluqueria 2\obj\Debug\Logica Peluqueria 2.csproj.CoreCompileInputs.cache
+C:\Users\guill\source\repos\Peluqueria 2\Logica Peluqueria 2\obj\Debug\Logica Peluqueria 2.csproj.CopyComplete
+C:\Users\guill\source\repos\Peluqueria 2\Logica Peluqueria 2\obj\Debug\Logica Peluqueria 2.dll
+C:\Users\guill\source\repos\Peluqueria 2\Logica Peluqueria 2\obj\Debug\Logica Peluqueria 2.pdb
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Logica Peluqueria 2\bin\Debug\Logica Peluqueria 2.dll
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Logica Peluqueria 2\bin\Debug\Logica Peluqueria 2.pdb
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Logica Peluqueria 2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Logica Peluqueria 2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Logica Peluqueria 2\obj\Debug\Logica Peluqueria 2.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Logica Peluqueria 2\obj\Debug\Logica Peluqueria 2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Logica Peluqueria 2\obj\Debug\Logica Peluqueria 2.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Logica Peluqueria 2\obj\Debug\Logica Peluqueria 2.dll
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Logica Peluqueria 2\obj\Debug\Logica Peluqueria 2.pdb

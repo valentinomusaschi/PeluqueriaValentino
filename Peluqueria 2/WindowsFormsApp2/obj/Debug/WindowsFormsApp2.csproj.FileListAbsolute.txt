@@ -1,0 +1,46 @@
+C:\Users\guill\source\repos\Peluqueria 2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\guill\source\repos\Peluqueria 2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\guill\source\repos\Peluqueria 2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\guill\source\repos\Peluqueria 2\WindowsFormsApp2\bin\Debug\Logica Peluqueria 2.dll
+C:\Users\guill\source\repos\Peluqueria 2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\guill\source\repos\Peluqueria 2\WindowsFormsApp2\bin\Debug\Logica Peluqueria 2.pdb
+C:\Users\guill\source\repos\Peluqueria 2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guill\source\repos\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\guill\source\repos\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\guill\source\repos\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\guill\source\repos\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\guill\source\repos\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\guill\source\repos\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\guill\source\repos\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\guill\source\repos\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\guill\source\repos\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Pantcliente.resources
+C:\Users\guill\source\repos\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Pantallacliente.resources
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\bin\Debug\Logica Peluqueria 2.dll
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\bin\Debug\Logica Peluqueria 2.pdb
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Pantallacliente.resources
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Pantcliente.resources
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Menuprincipal.resources
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Pantallaturno.resources
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Pantturno.resources
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Pantproducto.resources
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Pantallaproducto.resources
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Bajacliente.resources
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Bajaturno.resources
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Bajaproducto.resources
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.modificacliente.resources
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Modificaturno.resources
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.modificarproducto.resources

@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{20405D9C-9108-4E6C-94DD-1821879B5663}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp2</RootNamespace>
+    <AssemblyName>WindowsFormsApp2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bajacliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bajacliente.Designer.cs">
+      <DependentUpon>Bajacliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bajaturno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bajaturno.Designer.cs">
+      <DependentUpon>Bajaturno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modificacliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modificacliente.Designer.cs">
+      <DependentUpon>modificacliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modificarproducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modificarproducto.Designer.cs">
+      <DependentUpon>modificarproducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modificaturno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modificaturno.Designer.cs">
+      <DependentUpon>Modificaturno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantallaproducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantallaproducto.Designer.cs">
+      <DependentUpon>Pantallaproducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantallaturno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantallaturno.Designer.cs">
+      <DependentUpon>Pantallaturno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menuprincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menuprincipal.Designer.cs">
+      <DependentUpon>Menuprincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantallacliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantallacliente.Designer.cs">
+      <DependentUpon>Pantallacliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantproducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantproducto.Designer.cs">
+      <DependentUpon>Pantproducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantturno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantturno.Designer.cs">
+      <DependentUpon>Pantturno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pantcliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pantcliente.Designer.cs">
+      <DependentUpon>Pantcliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bajaproducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bajaproducto.Designer.cs">
+      <DependentUpon>Bajaproducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Bajacliente.resx">
+      <DependentUpon>Bajacliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bajaproducto.resx">
+      <DependentUpon>Bajaproducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bajaturno.resx">
+      <DependentUpon>Bajaturno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menuprincipal.resx">
+      <DependentUpon>Menuprincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modificacliente.resx">
+      <DependentUpon>modificacliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modificarproducto.resx">
+      <DependentUpon>modificarproducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modificaturno.resx">
+      <DependentUpon>Modificaturno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantallacliente.resx">
+      <DependentUpon>Pantallacliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantallaproducto.resx">
+      <DependentUpon>Pantallaproducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantallaturno.resx">
+      <DependentUpon>Pantallaturno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantproducto.resx">
+      <DependentUpon>Pantproducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantturno.resx">
+      <DependentUpon>Pantturno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pantcliente.resx">
+      <DependentUpon>Pantcliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\DataSources\Logica_Peluqueria_2.Cliente.datasource" />
+    <None Include="Properties\DataSources\Logica_Peluqueria_2.Producto.datasource" />
+    <None Include="Properties\DataSources\Logica_Peluqueria_2.Turno.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Logica Peluqueria 2\Logica Peluqueria 2.csproj">
+      <Project>{5a411aea-5468-4426-999e-9a58a52fbba9}</Project>
+      <Name>Logica Peluqueria 2</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pelu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pelu 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pwlu 3.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

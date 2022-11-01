@@ -1,0 +1,1 @@
+[{"id":3,"idpersona":0,"idturno":0,"idcompra":0,"nombre":"fabian zannetti","dni":43434658,"gmail":"fabianzanetti@gmail.com","telefono":"434343434","direccion":"rafaela 10028"}]

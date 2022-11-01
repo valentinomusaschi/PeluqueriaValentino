@@ -1,0 +1,1 @@
+[{"id":1,"idcliente":1,"fecha":"6060","costo":5000,"demora_estimada":0,"hora_disponible":0},{"id":2,"idcliente":2,"fecha":"909090","costo":6,"demora_estimada":0,"hora_disponible":0}]

@@ -1,0 +1,11 @@
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Peluqueriaconsola2\bin\Debug\Peluqueriaconsola2.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Peluqueriaconsola2\bin\Debug\Peluqueriaconsola2.exe
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Peluqueriaconsola2\bin\Debug\Peluqueriaconsola2.pdb
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Peluqueriaconsola2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Peluqueriaconsola2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Peluqueriaconsola2\obj\Debug\Consola Peluqueria2.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Peluqueriaconsola2\obj\Debug\Consola Peluqueria2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Peluqueriaconsola2\obj\Debug\Consola Peluqueria2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Peluqueriaconsola2\obj\Debug\Consola Peluqueria2.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Peluqueriaconsola2\obj\Debug\Peluqueriaconsola2.exe
+C:\Users\Usuario\OneDrive\Escritorio\proyecto practica\Peluqueria 2\Peluqueriaconsola2\obj\Debug\Peluqueriaconsola2.pdb
